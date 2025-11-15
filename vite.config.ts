@@ -15,5 +15,5 @@ export default defineConfig(({ command, mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: command === 'build' ? '/PayPlanWizard/' : '/',
+  base: command === 'build' ? '/pay-plan-wizard/' : '/',
 }));
