@@ -1,9 +1,9 @@
 // vite.config.ts
-import { defineConfig } from "file:///E:/PayPlanWizard/node_modules/vite/dist/node/index.js";
-import react from "file:///E:/PayPlanWizard/node_modules/@vitejs/plugin-react-swc/index.js";
+import { defineConfig } from "file:///E:/pay-plan-wizard/node_modules/vite/dist/node/index.js";
+import react from "file:///E:/pay-plan-wizard/node_modules/@vitejs/plugin-react-swc/index.js";
 import path from "path";
-import { componentTagger } from "file:///E:/PayPlanWizard/node_modules/lovable-tagger/dist/index.js";
-var __vite_injected_original_dirname = "E:\\PayPlanWizard";
+import { componentTagger } from "file:///E:/pay-plan-wizard/node_modules/lovable-tagger/dist/index.js";
+var __vite_injected_original_dirname = "E:\\pay-plan-wizard";
 var vite_config_default = defineConfig(({ mode }) => ({
   server: {
     host: "::",
